@@ -24,16 +24,7 @@
 | redis         |                            |
 | docker        |                            |
 
-docker pull mysql:5.7.25
-docker pull redis
-docker pull nacos/nacos-server
-docker pull minio/minio
-docker pull bladex/sentinel-dashboard
-docker pull xuxueli/xxl-job-admin:2.3.0
-docker pull seataio/seata-server:1.4.2
-docker pull elasticsearch:7.12.1
-docker pull kibana:7.12.1
-docker pull rabbitmq:management
+
 
 
 # 安装Docker
