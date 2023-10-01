@@ -1,6 +1,3 @@
-# cloud-hotspot
-莞工热点，以SpringBoot框架为基础，集成SpringCloud全家桶，以及多种中间件如MQ、Redis、ES、Minio、XXL-job、Nginx等，实现多用户、多功能的新闻头条平台
-
 ## 项目介绍
 
 莞工热点是基于 SpringBoot 框架，以 SpringCloud 搭建而成的微服务项目，该项目集成 MyBatis 持久层框架操作MySQL，使用 Redis 作为缓存层，提高系统并发能力；使用 JWT 对用户进行登录鉴定；集成 Minio 分布式云存储对用户资源进行存储。使用 WebSocket 全双工通信协议构建实时通信模块。利用 RabbitMQ 实现系统内不同微服务之间的异步通信和解耦,使用 Sentinel 对热门资源进行限流熔断，避免雪崩效应的出现。引入Elasticsearch 作为全文搜索引擎,实现了功能丰富、系统强大的莞工热点平台。 
