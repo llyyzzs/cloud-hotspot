@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="cloud-blog" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="cloud-blog">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cloud-leadnews-model" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="freemarker-demo" />
+        <module name="cloud-file-starter" />
+        <module name="cloud-leadnews-wemedia-gateway" />
+        <module name="minio-demo" />
+        <module name="cloud-leadnews-article" />
+        <module name="tess4j-demo" />
+        <module name="kafka-demo" />
+        <module name="task-demo" />
+        <module name="cloud-leadnews-app-gateway" />
+        <module name="cloud-leadnews-user" />
+        <module name="xxljob-demo" />
+        <module name="cloud-leadnews-utils" />
+        <module name="cloud-leadnews-admin" />
+        <module name="cloud-leadnews-behavior" />
+        <module name="cloud-leadnews-common" />
+        <module name="cloud-leadnews-feign-api" />
+        <module name="es-init" />
+        <module name="cloud-leadnews-schedule" />
+        <module name="cloud-leadnews-search" />
+        <module name="cloud-leadnews-model" />
+        <module name="cloud-leadnews-wemedia" />
+        <module name="cloud-leadnews-comment" />
+        <module name="mongo-demo" />
+        <module name="cloud-leadnews-admin-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-file-starter" target="1.8" />
+      <module name="cloud-leadnews" target="1.8" />
+      <module name="cloud-leadnews-admin" target="1.8" />
+      <module name="cloud-leadnews-admin-gateway" target="1.8" />
+      <module name="cloud-leadnews-app-gateway" target="1.8" />
+      <module name="cloud-leadnews-article" target="1.8" />
+      <module name="cloud-leadnews-basic" target="1.8" />
+      <module name="cloud-leadnews-behavior" target="1.8" />
+      <module name="cloud-leadnews-comment" target="1.8" />
+      <module name="cloud-leadnews-common" target="1.8" />
+      <module name="cloud-leadnews-feign-api" target="1.8" />
+      <module name="cloud-leadnews-gateway" target="1.8" />
+      <module name="cloud-leadnews-model" target="1.8" />
+      <module name="cloud-leadnews-schedule" target="1.8" />
+      <module name="cloud-leadnews-search" target="1.8" />
+      <module name="cloud-leadnews-service" target="1.8" />
+      <module name="cloud-leadnews-test" target="1.8" />
+      <module name="cloud-leadnews-user" target="1.8" />
+      <module name="cloud-leadnews-utils" target="1.8" />
+      <module name="cloud-leadnews-wemedia" target="1.8" />
+      <module name="cloud-leadnews-wemedia-gateway" target="1.8" />
+      <module name="es-init" target="1.8" />
+      <module name="freemarker-demo" target="1.8" />
+      <module name="heima-leadnews-alarm" target="1.8" />
+      <module name="heima-leadnews-apis" target="1.8" />
+      <module name="heima-leadnews-seata" target="1.8" />
+      <module name="kafka-demo" target="1.8" />
+      <module name="minio-demo" target="1.8" />
+      <module name="mongo-demo" target="1.8" />
+      <module name="task-demo" target="1.8" />
+      <module name="tess4j-demo" target="1.8" />
+      <module name="xxljob-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-file-starter" options="-parameters" />
+      <module name="cloud-leadnews-admin" options="-parameters" />
+      <module name="cloud-leadnews-admin-gateway" options="-parameters" />
+      <module name="cloud-leadnews-app-gateway" options="-parameters" />
+      <module name="cloud-leadnews-article" options="-parameters" />
+      <module name="cloud-leadnews-behavior" options="-parameters" />
+      <module name="cloud-leadnews-comment" options="-parameters" />
+      <module name="cloud-leadnews-common" options="-parameters" />
+      <module name="cloud-leadnews-feign-api" options="-parameters" />
+      <module name="cloud-leadnews-gateway" options="" />
+      <module name="cloud-leadnews-model" options="-parameters" />
+      <module name="cloud-leadnews-schedule" options="-parameters" />
+      <module name="cloud-leadnews-search" options="-parameters" />
+      <module name="cloud-leadnews-service" options="" />
+      <module name="cloud-leadnews-test" options="" />
+      <module name="cloud-leadnews-user" options="-parameters" />
+      <module name="cloud-leadnews-utils" options="-parameters" />
+      <module name="cloud-leadnews-wemedia" options="-parameters" />
+      <module name="cloud-leadnews-wemedia-gateway" options="-parameters" />
+      <module name="es-init" options="-parameters" />
+      <module name="freemarker-demo" options="-parameters" />
+      <module name="heima-leadnews-alarm" options="-parameters" />
+      <module name="heima-leadnews-apis" options="-parameters" />
+      <module name="heima-leadnews-seata" options="-parameters" />
+      <module name="kafka-demo" options="-parameters" />
+      <module name="minio-demo" options="-parameters" />
+      <module name="mongo-demo" options="-parameters" />
+      <module name="task-demo" options="-parameters" />
+      <module name="tess4j-demo" options="-parameters" />
+      <module name="xxljob-demo" options="-parameters" />
+    </option>
+  </component>
+</project>
